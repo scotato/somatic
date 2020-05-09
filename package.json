@@ -2,10 +2,16 @@
   "name": "somatic",
   "version": "0.0.0",
   "description": "video reactions",
-  "main": "index.js",
   "repository": "https://github.com/scotato/somatic",
   "author": "Scott Dodge",
   "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "engines": {
+    "node": ">=12",
+    "yarn": ">=1.15"
+  },
   "devDependencies": {
     "lerna": "^3.20.2"
   }
