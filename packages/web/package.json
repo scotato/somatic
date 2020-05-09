@@ -1,7 +1,7 @@
 {
-  "name": "api",
+  "name": "web",
   "version": "0.0.0",
-  "description": "graphql lambda server",
+  "description": "web server",
   "author": "Scott Dodge <scott@goldilocks.design>",
   "homepage": "https://github.com/scotato/somatic#readme",
   "license": "ISC",
@@ -10,9 +10,6 @@
     "lib": "lib",
     "test": "__tests__"
   },
-  "files": [
-    "index"
-  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/scotato/somatic.git"
