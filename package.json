@@ -1,0 +1,10 @@
+{
+  "name": "somatic",
+  "version": "0.0.0",
+  "description": "video reactions",
+  "main": "index.js",
+  "repository": "https://github.com/scotato/somatic",
+  "author": "Scott Dodge",
+  "license": "MIT",
+  "private": false
+}
