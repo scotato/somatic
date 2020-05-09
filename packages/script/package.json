@@ -1,0 +1,26 @@
+{
+  "name": "script",
+  "version": "0.0.0",
+  "description": "video wrapper",
+  "author": "Scott Dodge <scott@goldilocks.design>",
+  "homepage": "https://github.com/scotato/somatic#readme",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scotato/somatic.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/scotato/somatic/issues"
+  }
+}
