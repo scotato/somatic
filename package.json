@@ -10,7 +10,8 @@
     "packages/*"
   ],
   "scripts": {
-    "start": "yarn workspace web start"
+    "start": "yarn workspace web start",
+    "build": "yarn workspace web build"
   },
   "engines": {
     "node": ">=12",
